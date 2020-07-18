@@ -1,16 +1,69 @@
-### Hi there 👋
+### Hi, I'm Kássio Luz 👋
 
-<!--
-**KassioVieira/KassioVieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mobile Developer with degree in Information Systems and MBA in Mobile Developmnent.
 
-Here are some ideas to get you started:
+## Languages and Frameworks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>Kotlin</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/kotlin.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Java</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Swift</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/swift.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>JavaScript</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>React</span><br><br><br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/react.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>React-Native</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Flutter</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/flutter.svg">
+      </td>
+       <td width="25%" align="center">
+        <span>Ionic</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/ionic.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>Vue</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Angular</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/angular.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>HTML</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+      </td>
+       <td width="25%" align="center">
+        <span>CSS</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+       </td>
+    </tr>
+  </tbody>
+</table>
+
+## 📫 Contact Me
+
+- Twitter - [@kassio_luz](https://twitter.com/kassio_luz)
+- LinkedIn - [Gaurav Chouhan](https://www.linkedin.com/in/kassio-vieira-luz/)
