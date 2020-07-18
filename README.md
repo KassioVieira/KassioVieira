@@ -66,4 +66,4 @@ Mobile Developer with degree in Information Systems and MBA in Mobile Developmne
 ## 📫 Contact Me
 
 - Twitter - [@kassio_luz](https://twitter.com/kassio_luz)
-- LinkedIn - [Gaurav Chouhan](https://www.linkedin.com/in/kassio-vieira-luz/)
+- LinkedIn - [Kássio Luz](https://www.linkedin.com/in/kassio-vieira-luz/)
