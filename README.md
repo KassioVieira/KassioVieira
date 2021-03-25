@@ -27,7 +27,7 @@ I am a Mobile Developer with degree in Information Systems and MBA in Mobile Dev
     <tr valign="top">
       <td width="25%" align="center">
         <span>React</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/react.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
       <td width="25%" align="center">
         <span>React-Native</span><br><br><br>
