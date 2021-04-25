@@ -64,8 +64,6 @@ I am a Mobile Developer with degree in Information Systems and MBA in Mobile Dev
 </table>
 
 
-![Trophy's github](https://github-profile-trophy.vercel.app/?username=KassioVieira&column=3&margin-w=15&margin-h=15)
-
 ## 📫 Contact Me
 
 - Twitter - [@kassio_luz](https://twitter.com/kassio_luz)
