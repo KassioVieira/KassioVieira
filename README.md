@@ -1,6 +1,6 @@
 ### Hi, I'm Kássio Luz 👋
 
-I am a Mobile Developer with degree in Information Systems and MBA in Mobile Development. Since 2014 I has worked with mobile development using the following  tecnologies: Android (`Java`, `Kotlin`), IOS (`Swift`) , Flutter and React-Native. I also have experience with web development: HTML, CSS, JavaScript and frameworks as Angular and the library React.
+I am a Mobile Developer with degree in Information Systems and MBA in Mobile Development. Since 2014 I have worked with mobile development using the following  tecnologies: Android (`Java`, `Kotlin`), IOS (`Swift`) , Flutter and React-Native. I also have experience with web development: HTML, CSS, JavaScript and frameworks as Angular and the library React.
 
 ## Languages and Frameworks
 
