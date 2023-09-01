@@ -63,6 +63,10 @@ I am a Mobile Developer with a degree in Information Systems and MBA in Mobile D
   </tbody>
 </table>
 
+![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=KassioVieira&show_icons=true&hide_border=true)
+![Langs's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KassioVieira&layout=compact)
+![Trophy's github](https://github-profile-trophy.vercel.app/?username=KassioVieira&column=3&margin-w=15&margin-h=15)
+
 
 ## 📫 Contact Me
 
