@@ -67,7 +67,7 @@ I am a Mobile Developer with a degree in Information Systems and MBA in Mobile D
 ![Langs's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KassioVieira&layout=compact)
 ![Trophy's github](https://github-profile-trophy.vercel.app/?username=KassioVieira&column=3&margin-w=15&margin-h=15)
 
-[visitors](https://visitor-badge.glitch.me/badge?page_id=KassioVieira&left_color=green&right_color=red)
+[visitors](https://visitor-badge.glitch.me/badge?page_id=KassioVieira.KassioVieira&left_color=green&right_color=red)
 
 ## 📫 Contact Me
 
