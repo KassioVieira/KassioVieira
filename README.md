@@ -1,3 +1,5 @@
+[visitors](https://visitor-badge.glitch.me/badge?page_id=KassioVieira&left_color=green&right_color=red)
+
 ### Hi, I'm Kássio Luz 👋
 
 I am a Mobile Developer with a degree in Information Systems and MBA in Mobile Development. Since 2014 I have been working with mobile development using the following technologies: Android (`Java`, `Kotlin`), IOS (`Swift`), Flutter, and React-Native. I also have experience with web development: HTML, CSS, JavaScript, and frameworks such as Angular and React.
